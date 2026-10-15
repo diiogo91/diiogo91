@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Diogo Amaral 👋
 
-<!--
-**diiogo91/diiogo91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Test Automation Engineer | Quality Engineering & Java**
 
-Here are some ideas to get you started:
+I build dependable software and the engineering tools that help teams ship it with confidence. My work spans Java backend development, automated UI/API testing, non-functional testing, CI/CD, and application observability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Maputo, Mozambique · 🌍 Open to opportunities in Portugal, Spain, Luxembourg and remote teams
+
+[LinkedIn](https://www.linkedin.com/in/damaral91/) · [Engineering Portfolio](https://diiogo91.github.io/developer-portfolio/)
+
+## What I do
+
+- **Test automation & SDET:** Java, Selenium, Playwright, TestNG, Robot Framework, REST API testing
+- **Backend & full-stack engineering:** Java 21, Spring Boot, React, REST APIs, SQL and NoSQL
+- **Performance & reliability:** JMeter, performance test design, quality gates and observability
+- **Delivery engineering:** GitHub Actions, Docker, CI/CD, automated reporting
+
+## Featured projects
+
+> My public engineering demos are being built incrementally. Links will become active as repositories are published.
+
+| Project | Engineering focus | Status |
+| --- | --- | --- |
+| **Digital Banking Sandbox** | Java/Spring Boot API, React, PostgreSQL, synthetic banking workflows | Planned |
+| **Automation Testing Platform** | UI & API automation, parallel execution, reports, CI/CD | Planned |
+| **Performance Engineering Lab** | JMeter, latency percentiles, load baselines, quality gates | Planned |
+| **Environment Observability Lab** | Health checks, telemetry, tracing, monitoring | Planned |
+| **Smart Test Data Manager** | Synthetic data, provisioning, auditability | Planned |
+| **AI Test Failure Analyzer** | Log analysis, failure clustering and evidence-led diagnostics | Planned |
+
+## Engineering principles
+
+**Maintainability first** · **Automation as a product** · **Evidence-based quality** · **Secure by design** · **Clear documentation**
+
+## Let's connect
+
+I'm interested in opportunities as a **Senior QA Automation Engineer, SDET, Test Automation Architect, Java Backend Developer, or Java Full-Stack Developer**.
+
+📨 Reach me via [LinkedIn](https://www.linkedin.com/in/damaral91/).
+
+---
+*The demo projects presented here are original, use synthetic data, and are not affiliated with or based on proprietary employer systems.*
