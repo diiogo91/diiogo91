@@ -34,8 +34,6 @@ I build dependable software and the engineering tools that help teams ship it wi
 
 ## Let's connect
 
-I'm interested in opportunities as a **Senior QA Automation Engineer, SDET, Test Automation Architect, Java Backend Developer, or Java Full-Stack Developer**.
-
 📨 Reach me via [LinkedIn](https://www.linkedin.com/in/damaral91/).
 
 ---
