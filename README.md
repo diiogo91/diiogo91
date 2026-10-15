@@ -4,7 +4,7 @@
 
 I build dependable software and the engineering tools that help teams ship it with confidence. My work spans Java backend development, automated UI/API testing, non-functional testing, CI/CD, and application observability.
 
-📍 Maputo, Mozambique · 🌍 Open to opportunities in Portugal, Spain, Luxembourg and remote teams
+📍 Maputo, Mozambique ·
 
 [LinkedIn](https://www.linkedin.com/in/damaral91/) · [Engineering Portfolio](https://diiogo91.github.io/developer-portfolio/)
 
